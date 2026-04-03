@@ -6,7 +6,7 @@ const ELEMENT_SELECTORS = {
 };
 
 const TIME_CONFIG = {
-    delete_cycle: 3500,
+    delete_cycle: 2500,
     press_button_delay: 400,
 };
 
